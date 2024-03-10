@@ -30,7 +30,10 @@ Panduan Instalasi dan Penggunaan Sistem Teleradiologi SiTerMid v2.0
    - Buka file konfigurasi `C:\Program Files\Orthanc Server\Configuration\orthanc.json`.
    - Ubah nilai `RemoteAccessAllowed` menjadi `true` dan `AuthenticationEnabled` menjadi `false`.
    - AE Tittle for modalities 4242
-
+### D. Default access
+   - Admin username : admin@sitermid.my.id
+   - Dokter username : dokter@sitermid.my.id
+   - Password : 1234
 ## II. Testing dan Konfigurasi
 
 1. **Testing Orthanc**
