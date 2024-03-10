@@ -8,14 +8,13 @@ Panduan Instalasi dan Penggunaan Sistem Teleradiologi SiTerMid v2.0
 
 ### A. Xampp
 1. **Download Xampp**
-   - Unduh [Xampp versi 7.4.33](link_xampp) melalui [link ini](link_xampp).
-
+   - Unduh [Xampp versi 7.4.33] (Needed)
 2. **Instalasi Xampp**
    - Lakukan instalasi Xampp sesuai dengan direktori yang diinginkan.
 
 ### B. SiTerMid
 1. **Download Source Code SiTerMid**
-   - Unduh source code SiTerMid dari [sitermid.my.id](link_sitermid).
+   - Unduh source code SiTerMid.
 
 2. **Instalasi Database**
    - Extract archive `sitermid.rar` pada `C:/xampp/htdocs`.
@@ -24,12 +23,13 @@ Panduan Instalasi dan Penggunaan Sistem Teleradiologi SiTerMid v2.0
 
 ### C. Orthanc
 1. **Download Orthanc**
-   - Unduh versi terbaru dari Orthanc melalui [link ini](link_orthanc).
+   - Unduh versi terbaru dari Orthanc melalui [link ini](https://www.orthanc-server.com/download.php).
    - Install Orthanc pada direktori yang diinginkan.
 
 2. **Konfigurasi Orthanc**
    - Buka file konfigurasi `C:\Program Files\Orthanc Server\Configuration\orthanc.json`.
    - Ubah nilai `RemoteAccessAllowed` menjadi `true` dan `AuthenticationEnabled` menjadi `false`.
+   - AE Tittle for modalities 4242
 
 ## II. Testing dan Konfigurasi
 
