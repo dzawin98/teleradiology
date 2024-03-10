@@ -15,7 +15,7 @@ Panduan Instalasi dan Penggunaan Sistem Teleradiologi SiTerMid v2.0
 
 ### B. SiTerMid
 1. **Download Source Code SiTerMid**
-   - Unduh source code SiTerMid dari [portal sitermid.my.id](link_sitermid).
+   - Unduh source code SiTerMid dari [sitermid.my.id](link_sitermid).
 
 2. **Instalasi Database**
    - Extract archive `sitermid.rar` pada `C:/xampp/htdocs`.
